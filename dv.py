@@ -9,4 +9,4 @@ df=pd.DataFrame(
 )
 df
 st.table(df)
-st.line_chat(df['Weight'])
+st.line_chart(df['Weight'])
